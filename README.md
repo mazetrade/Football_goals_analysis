@@ -2,7 +2,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
 
-**Live app: [YOUR-APP-NAME.streamlit.app](https://euro-worldcup-goals-analysis.streamlit.app)**
+**Live app: [euro-worldcup-goal-analysis.streamlit.app](https://euro-worldcup-goals-analysis.streamlit.app)**
 
 A home-made expected goals model, built from scratch on StatsBomb open data: every shot from the 2018 and 2022 World Cups, Euro 2020 and Euro 2024. It turns raw match events into a number that every professional club uses today, then puts that number into an interactive app.
 
