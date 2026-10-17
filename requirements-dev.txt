@@ -1,0 +1,4 @@
+-r requirements.txt
+statsbombpy==1.22.0
+xgboost==3.4.1
+jupyter
